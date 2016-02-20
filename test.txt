@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-local.
-=======
-remote.
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
-edited.
->>>>>>> origin/master
