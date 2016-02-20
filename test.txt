@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-local.
-=======
-remote.
->>>>>>> origin/master
+
