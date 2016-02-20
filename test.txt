@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-uncommit.
-=======
-
->>>>>>> origin/master
