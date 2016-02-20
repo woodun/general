@@ -1,2 +1,7 @@
 changed.
+<<<<<<< HEAD
 
+=======
+second change.
+third change.
+>>>>>>> origin/master
